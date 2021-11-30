@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Lets go brandon replacer",
+    "version": "0.1.0",
+    "description": "replaces every occurance of 'joe biden' to 'let's go brandon'",
+    "content_scripts": [{
+        "js": ["brandon.js"],
+        "matches": ["https://*/*"]
+      }]
+}
