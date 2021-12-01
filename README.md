@@ -1,2 +1,2 @@
 # Lets go Brandon replacer
-#### replaces every occurance of 'joe biden' to 'let's go brandon'
+#### A chrome extension that replaces every occurance of 'joe biden' to 'let's go brandon'
